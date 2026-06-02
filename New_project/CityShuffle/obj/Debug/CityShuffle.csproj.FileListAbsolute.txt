@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\All git projects\New_project\New_project\CityShuffle\bin\Debug\CityShuffle.exe.config
+C:\Users\admin\Desktop\All git projects\New_project\New_project\CityShuffle\bin\Debug\CityShuffle.exe
+C:\Users\admin\Desktop\All git projects\New_project\New_project\CityShuffle\bin\Debug\CityShuffle.pdb
+C:\Users\admin\Desktop\All git projects\New_project\New_project\CityShuffle\obj\Debug\CityShuffle.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\All git projects\New_project\New_project\CityShuffle\obj\Debug\CityShuffle.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\All git projects\New_project\New_project\CityShuffle\obj\Debug\CityShuffle.exe
+C:\Users\admin\Desktop\All git projects\New_project\New_project\CityShuffle\obj\Debug\CityShuffle.pdb
