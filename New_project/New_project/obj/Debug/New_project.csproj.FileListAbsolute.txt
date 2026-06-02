@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\All git projects\New_project\New_project\New_project\bin\Debug\New_project.exe.config
+C:\Users\admin\Desktop\All git projects\New_project\New_project\New_project\bin\Debug\New_project.exe
+C:\Users\admin\Desktop\All git projects\New_project\New_project\New_project\bin\Debug\New_project.pdb
+C:\Users\admin\Desktop\All git projects\New_project\New_project\New_project\obj\Debug\New_project.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\All git projects\New_project\New_project\New_project\obj\Debug\New_project.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\All git projects\New_project\New_project\New_project\obj\Debug\New_project.exe
+C:\Users\admin\Desktop\All git projects\New_project\New_project\New_project\obj\Debug\New_project.pdb
