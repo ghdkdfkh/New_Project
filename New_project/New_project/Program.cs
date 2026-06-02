@@ -21,10 +21,10 @@ namespace New_project
         {
             int result;
             string userInput;
-
+            bool isConverted= false;
            
 
-            while (true)
+            while (isConverted==false)
             {
                 userInput = Console.ReadLine();              
 
@@ -32,7 +32,7 @@ namespace New_project
                 {
                     Console.WriteLine($"Ваше число успешно конвертировано\n" +
                         $"Ваше число {result}");
-                    break;
+                    isConverted = true;
                 }
                 else
                 {
