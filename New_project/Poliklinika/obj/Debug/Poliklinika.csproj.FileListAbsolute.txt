@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\All git projects\New_project\New_project\Poliklinika\bin\Debug\Poliklinika.exe.config
+C:\Users\admin\Desktop\All git projects\New_project\New_project\Poliklinika\bin\Debug\Poliklinika.exe
+C:\Users\admin\Desktop\All git projects\New_project\New_project\Poliklinika\bin\Debug\Poliklinika.pdb
+C:\Users\admin\Desktop\All git projects\New_project\New_project\Poliklinika\obj\Debug\Poliklinika.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\All git projects\New_project\New_project\Poliklinika\obj\Debug\Poliklinika.exe
+C:\Users\admin\Desktop\All git projects\New_project\New_project\Poliklinika\obj\Debug\Poliklinika.pdb

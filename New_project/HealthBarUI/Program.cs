@@ -16,9 +16,11 @@ namespace HealthBarUI
     {
         static void Main(string[] args)
         {
+            bool isWorking = true;
             int health = 5, maxHealth = 10;
             int mana = 8, maxMana = 10;
-            while (true)
+
+            while (isWorking==true)
             {
                 DrawBar(health, maxHealth, ConsoleColor.DarkGreen, 0, '#');
                 DrawBar(mana, maxMana, ConsoleColor.DarkBlue, 1, '^');
@@ -28,7 +30,11 @@ namespace HealthBarUI
                 health += Convert.ToInt32(Console.ReadLine());
                 Console.Write("Введите количество маны ");
                 mana += Convert.ToInt32(Console.ReadLine());
-
+                Console.WriteLine("Введите exit для выхода");
+                if (Console.ReadLine() == "exit")
+                {
+                    isWorking = false;
+                }
                 Console.Clear();
             }
         }

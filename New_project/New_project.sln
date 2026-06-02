@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "New_project", "New_project\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthBarUI", "HealthBarUI\HealthBarUI.csproj", "{AA6034FE-AEA5-404B-BDFA-97D05298616C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poliklinika", "Poliklinika\Poliklinika.csproj", "{2FBF4B79-0678-4959-B45D-EF06DE6412FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{AA6034FE-AEA5-404B-BDFA-97D05298616C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA6034FE-AEA5-404B-BDFA-97D05298616C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA6034FE-AEA5-404B-BDFA-97D05298616C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FBF4B79-0678-4959-B45D-EF06DE6412FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FBF4B79-0678-4959-B45D-EF06DE6412FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FBF4B79-0678-4959-B45D-EF06DE6412FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FBF4B79-0678-4959-B45D-EF06DE6412FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
