@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.36107.64
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "New_project", "New_project\New_project.csproj", "{02D6DC9E-06E9-432C-99FB-CDEEB19A722E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthBarUI", "HealthBarUI\HealthBarUI.csproj", "{AA6034FE-AEA5-404B-BDFA-97D05298616C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{02D6DC9E-06E9-432C-99FB-CDEEB19A722E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02D6DC9E-06E9-432C-99FB-CDEEB19A722E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{02D6DC9E-06E9-432C-99FB-CDEEB19A722E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA6034FE-AEA5-404B-BDFA-97D05298616C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA6034FE-AEA5-404B-BDFA-97D05298616C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA6034FE-AEA5-404B-BDFA-97D05298616C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA6034FE-AEA5-404B-BDFA-97D05298616C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

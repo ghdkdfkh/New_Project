@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\All git projects\New_project\New_project\HealthBarUI\bin\Debug\HealthBarUI.exe.config
+C:\Users\admin\Desktop\All git projects\New_project\New_project\HealthBarUI\bin\Debug\HealthBarUI.exe
+C:\Users\admin\Desktop\All git projects\New_project\New_project\HealthBarUI\bin\Debug\HealthBarUI.pdb
+C:\Users\admin\Desktop\All git projects\New_project\New_project\HealthBarUI\obj\Debug\HealthBarUI.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\All git projects\New_project\New_project\HealthBarUI\obj\Debug\HealthBarUI.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\All git projects\New_project\New_project\HealthBarUI\obj\Debug\HealthBarUI.exe
+C:\Users\admin\Desktop\All git projects\New_project\New_project\HealthBarUI\obj\Debug\HealthBarUI.pdb
