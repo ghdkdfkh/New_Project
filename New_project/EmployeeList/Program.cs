@@ -43,6 +43,9 @@ namespace EmployeeList
                         break;
                     
                     case "2":
+                        for (int i = 0; i < namesOfEmployee.Length; i++)
+                            Console.WriteLine("Имя ,Фамилия и Отчество сотрудника - " +namesOfEmployee[i]
+                            + "|| Должность - " + dolznostOfEmployee[i]);
                         break;
                     
                     case "3":
