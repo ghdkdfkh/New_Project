@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poliklinika", "Poliklinika\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CityShuffle", "CityShuffle\CityShuffle.csproj", "{F4A76B43-D746-496E-A30A-FFEE5D1DC809}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeList", "EmployeeList\EmployeeList.csproj", "{533B3E7C-8FCA-42ED-AE1B-BFC42C8BA8FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{F4A76B43-D746-496E-A30A-FFEE5D1DC809}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4A76B43-D746-496E-A30A-FFEE5D1DC809}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4A76B43-D746-496E-A30A-FFEE5D1DC809}.Release|Any CPU.Build.0 = Release|Any CPU
+		{533B3E7C-8FCA-42ED-AE1B-BFC42C8BA8FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{533B3E7C-8FCA-42ED-AE1B-BFC42C8BA8FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{533B3E7C-8FCA-42ED-AE1B-BFC42C8BA8FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{533B3E7C-8FCA-42ED-AE1B-BFC42C8BA8FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\All git projects\New_project\New_project\EmployeeList\bin\Debug\EmployeeList.exe.config
+C:\Users\admin\Desktop\All git projects\New_project\New_project\EmployeeList\bin\Debug\EmployeeList.exe
+C:\Users\admin\Desktop\All git projects\New_project\New_project\EmployeeList\bin\Debug\EmployeeList.pdb
+C:\Users\admin\Desktop\All git projects\New_project\New_project\EmployeeList\obj\Debug\EmployeeList.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\All git projects\New_project\New_project\EmployeeList\obj\Debug\EmployeeList.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\All git projects\New_project\New_project\EmployeeList\obj\Debug\EmployeeList.exe
+C:\Users\admin\Desktop\All git projects\New_project\New_project\EmployeeList\obj\Debug\EmployeeList.pdb
