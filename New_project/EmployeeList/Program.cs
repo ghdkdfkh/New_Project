@@ -7,13 +7,11 @@ using System.Threading.Tasks;
 namespace EmployeeList
 {
     //    4.4) ДЗ: Кадровый учет
-    //        Будет 2 одномерных массива:
+    //     Будет 2 одномерных массива:
     //1) Полные имена сотрудников(фамилия, имя, отчество);
     //2) Должности.
-
     //Описать функцию заполнения массивов досье, функцию форматированного вывода, функцию поиска по фамилии и функцию удаления досье.
     //Функция добавления элемента расширяет уже имеющийся массив на 1 и дописывает туда новое значение.
-
     //Программа должна быть с меню, которое содержит пункты:  
     //1) добавить досье
     //2) вывести все досье(в одну строку через “-” фио и должность с порядковым номером в начале)
@@ -32,28 +30,30 @@ namespace EmployeeList
 
             while (isWorking == true)
             {
-            Console.WriteLine("1) добавить досье\n" +
-                "2) вывести все досье\n" +
-                "3) удалить досье\n" +
-                "4) поиск по фамилии\n" +
-                "5) выход\n");
-                switch (userInput=Console.ReadLine())
+
+                Console.WriteLine("1) добавить досье\n" +
+                    "2) вывести все досье\n" +
+                    "3) удалить досье\n" +
+                    "4) поиск по фамилии\n" +
+                    "5) выход\n");
+                switch (userInput = Console.ReadLine())
                 {
                     case "1":
+                        // Попробовать сделать через отдельный ввод от функции
                         break;
-                    
+
                     case "2":
-                        for (int i = 0; i < namesOfEmployee.Length; i++)
-                            Console.WriteLine("Имя ,Фамилия и Отчество сотрудника - " +namesOfEmployee[i]
-                            + "|| Должность - " + dolznostOfEmployee[i]);
+                        //for (int i = 0; i < namesOfEmployee.Length; i++)
+                        //    Console.WriteLine("Имя ,Фамилия и Отчество сотрудника - " + namesOfEmployee[i]
+                        //    + "|| Должность - " + dolznostOfEmployee[i]);
                         break;
-                    
+
                     case "3":
                         break;
-                    
+
                     case "4":
                         break;
-                    
+
                     case "5":
                         Console.WriteLine("Производится выход");
                         isWorking = false;
@@ -64,6 +64,10 @@ namespace EmployeeList
                         break;
                 }
             }
+        }
+        static void AddEmployee(string[] text)
+        {
+
         }
     }
 }
