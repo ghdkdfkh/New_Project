@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\All git projects\New_project\New_project\massivi\bin\Debug\massivi.exe.config
+C:\Users\admin\Desktop\All git projects\New_project\New_project\massivi\bin\Debug\massivi.exe
+C:\Users\admin\Desktop\All git projects\New_project\New_project\massivi\bin\Debug\massivi.pdb
+C:\Users\admin\Desktop\All git projects\New_project\New_project\massivi\obj\Debug\massivi.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\All git projects\New_project\New_project\massivi\obj\Debug\massivi.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\All git projects\New_project\New_project\massivi\obj\Debug\massivi.exe
+C:\Users\admin\Desktop\All git projects\New_project\New_project\massivi\obj\Debug\massivi.pdb

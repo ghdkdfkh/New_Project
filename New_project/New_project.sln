@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeList", "EmployeeLis
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "brodilka", "brodilka\brodilka.csproj", "{828F0ACC-B629-4038-B90B-3E615540B32B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "massivi", "massivi\massivi.csproj", "{B3C4D32F-CDDC-44A7-AEAD-228D531A22A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{828F0ACC-B629-4038-B90B-3E615540B32B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{828F0ACC-B629-4038-B90B-3E615540B32B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{828F0ACC-B629-4038-B90B-3E615540B32B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3C4D32F-CDDC-44A7-AEAD-228D531A22A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3C4D32F-CDDC-44A7-AEAD-228D531A22A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3C4D32F-CDDC-44A7-AEAD-228D531A22A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3C4D32F-CDDC-44A7-AEAD-228D531A22A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
