@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CityShuffle", "CityShuffle\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeList", "EmployeeList\EmployeeList.csproj", "{533B3E7C-8FCA-42ED-AE1B-BFC42C8BA8FB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "brodilka", "brodilka\brodilka.csproj", "{828F0ACC-B629-4038-B90B-3E615540B32B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{533B3E7C-8FCA-42ED-AE1B-BFC42C8BA8FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{533B3E7C-8FCA-42ED-AE1B-BFC42C8BA8FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{533B3E7C-8FCA-42ED-AE1B-BFC42C8BA8FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{828F0ACC-B629-4038-B90B-3E615540B32B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{828F0ACC-B629-4038-B90B-3E615540B32B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{828F0ACC-B629-4038-B90B-3E615540B32B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{828F0ACC-B629-4038-B90B-3E615540B32B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
