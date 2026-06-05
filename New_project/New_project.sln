@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "brodilka", "brodilka\brodil
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "massivi", "massivi\massivi.csproj", "{B3C4D32F-CDDC-44A7-AEAD-228D531A22A2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{FD91A956-70EF-4904-B9B7-B125070D02F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{B3C4D32F-CDDC-44A7-AEAD-228D531A22A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3C4D32F-CDDC-44A7-AEAD-228D531A22A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3C4D32F-CDDC-44A7-AEAD-228D531A22A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD91A956-70EF-4904-B9B7-B125070D02F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD91A956-70EF-4904-B9B7-B125070D02F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD91A956-70EF-4904-B9B7-B125070D02F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD91A956-70EF-4904-B9B7-B125070D02F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

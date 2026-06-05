@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\All git projects\New_project\New_project\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\admin\Desktop\All git projects\New_project\New_project\Calculator\bin\Debug\Calculator.exe
+C:\Users\admin\Desktop\All git projects\New_project\New_project\Calculator\bin\Debug\Calculator.pdb
+C:\Users\admin\Desktop\All git projects\New_project\New_project\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\All git projects\New_project\New_project\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\All git projects\New_project\New_project\Calculator\obj\Debug\Calculator.exe
+C:\Users\admin\Desktop\All git projects\New_project\New_project\Calculator\obj\Debug\Calculator.pdb
