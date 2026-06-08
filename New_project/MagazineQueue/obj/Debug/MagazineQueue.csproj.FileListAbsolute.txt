@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\All git projects\New_project\New_project\MagazineQueue\bin\Debug\MagazineQueue.exe.config
+C:\Users\admin\Desktop\All git projects\New_project\New_project\MagazineQueue\bin\Debug\MagazineQueue.exe
+C:\Users\admin\Desktop\All git projects\New_project\New_project\MagazineQueue\bin\Debug\MagazineQueue.pdb
+C:\Users\admin\Desktop\All git projects\New_project\New_project\MagazineQueue\obj\Debug\MagazineQueue.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\All git projects\New_project\New_project\MagazineQueue\obj\Debug\MagazineQueue.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\All git projects\New_project\New_project\MagazineQueue\obj\Debug\MagazineQueue.exe
+C:\Users\admin\Desktop\All git projects\New_project\New_project\MagazineQueue\obj\Debug\MagazineQueue.pdb
